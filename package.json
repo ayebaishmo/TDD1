@@ -1,0 +1,15 @@
+{
+  "name": "tdd1_est_lint",
+  "version": "1.0.0",
+  "description": "Test-Driven Development (TDD) is a software development approach where tests are written before the actual code. It follows a repetitive cycle called Red-Green-Refactor:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.23.0"
+  }
+}
